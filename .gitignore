@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+
+# FastAPI related artifacts
+dist/
+build/
+
+# IDE configuration files
+.vscode/
+*.idea/
+
+# Python wheel files
+*.whl
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
